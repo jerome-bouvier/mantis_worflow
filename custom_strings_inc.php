@@ -1,7 +1,7 @@
 <?php
 
 //Workflow Mantis traduit en Français
-$s_status_enum_string = '10:Nouveau,20:Commentaire,30:Accepté,40:Confirmé,50:Affecté, 70:A Livrer,80:Résolu ,90:Fermé';
+$s_status_enum_string = '10:Nouveau,20:Commentaire,30:A Compléter,40:Confirmé,50:Affecté, 70:A Livrer,80:Résolu ,90:Fermé';
 //Titre du bouton lors du changement de statut
 $s_waiting_for_prod_bug_button = "A Livrer";
 // Titre du statut dans le listing des bugs
